@@ -24,7 +24,7 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
-    /* we could add some javascript here later if we wanted the SEO to do something cool */
+    /* we could add some code here later if we wanted the SEO to do something cool */
 }
 
 /* Added a more descriptive class for the search links (search_links) and separated out the header styles from the search link styles*/
@@ -68,7 +68,7 @@ p {
 
 /*Renamed these float styles to be more descriptive since they are being used for images fitting in with text */
 .image-float-left {
-    float: left;
+    float:left;
     margin-right: 25px;
 }
 

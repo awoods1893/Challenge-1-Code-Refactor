@@ -15,6 +15,7 @@ For this challenge, I am refactoring existing code to improve accessibility for 
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-This site was built using [GitHub Pages](https://awoods1893.github.io/challenge1/index.html)
+[Website URL](https://awoods1893.github.io/Challenge-1-Code-Refactor/)
+
 ![Screenshot](./Develop/assets/images/Website_Screenshot.png)
 
